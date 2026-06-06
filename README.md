@@ -1,4 +1,4 @@
-# High-Performance Property & Financial Management API (.NET 8/9)
+# High-Performance Property & Financial Management API (.NET 10)
 
 A production-ready Property Management System (PMS) backend built with **Clean Architecture** and **CQRS (MediatR)**. This project demonstrates advanced backend capabilities, focusing on relational database integrity, enterprise validation patterns, and **Automated Background Services (Hosted Services)** for automated financial scheduling.
 
