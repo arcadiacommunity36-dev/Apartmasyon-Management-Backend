@@ -28,7 +28,7 @@ This system is decoupled into isolated layers to respect the separation of conce
 ## 🛠️ Installation & Setup
 
 ### Prerequisites
-- .NET 8 or .NET 9 SDK
+- .NET 10
 - MS SQL Server instance
 
 ### Quick Start
