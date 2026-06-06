@@ -1,0 +1,6 @@
+@Apartmasyon.WebAPI_HostAddress = http://localhost:5002
+
+GET {{Apartmasyon.WebAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,9 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Apartmasyon.Application/Apartmasyon.Application.csproj" />
+    <Project Path="src/Apartmasyon.Domain/Apartmasyon.Domain.csproj" />
+    <Project Path="src/Apartmasyon.Infrastructure/Apartmasyon.Infrastructure.csproj" />
+    <Project Path="src/Apartmasyon.Persistence/Apartmasyon.Persistence.csproj" />
+    <Project Path="src/Apartmasyon.WebAPI/Apartmasyon.WebAPI.csproj" />
+  </Folder>
+</Solution>
